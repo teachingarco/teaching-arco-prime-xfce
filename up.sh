@@ -30,6 +30,8 @@
 # reset - commit your changes or stash them before you merge
 # git reset --hard - personal alias - grh
 
+# https://www.git-tower.com/learn/git/faq/undo-last-commit
+
 # checking if I have the latest files from github
 echo "Checking for newer files online first"
 git pull
@@ -52,6 +54,7 @@ git commit -m "$input"
 # Push the local files to github
 
 git push -u origin main
+#git push -u origin main --force
 
 echo "################################################################"
 echo "###################    Git Push Done      ######################"
