@@ -1,1 +1,1 @@
-** TeachingArco 
+TeachingArco 
