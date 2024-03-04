@@ -1,11 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Version=0.9.4
+Version=1.0
 Type=Application
-Name=discord
+Name=plank
 Comment=
-Exec=discord
+Exec=plank
+TryExec=plank
 StartupNotify=false
+X-GNOME-Autostart-enabled=true
 Terminal=false
 Hidden=false
-
